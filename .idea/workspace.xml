@@ -6,24 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="de4283d3-22e4-4f8a-a7d6-226f48b0d922" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/templates/account/edit_profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/templates/account/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/templates/account/password_reset_complete.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/templates/account/password_reset_confirm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/templates/account/password_reset_done.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/templates/account/password_reset_email.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/templates/account/password_reset_form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/templates/account/profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/templates/account/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/forms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +135,7 @@
       <workItem from="1715835278688" duration="1958000" />
       <workItem from="1715841204612" duration="91000" />
       <workItem from="1715842128674" duration="3503000" />
-      <workItem from="1715846178648" duration="491000" />
+      <workItem from="1715846178648" duration="2457000" />
     </task>
     <servers />
   </component>
